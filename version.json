@@ -1,0 +1,8 @@
+{
+  "fir": "LBSR",
+  "airac_cycle": 2510,
+  "airac_version": 2,
+  "latest_package_name": "LBSR-LBSR-Package_20251011220459-251002-0002",
+  "download_url": "https://files.aero-nav.com/LBSR",
+  "notes": "Initial setup"
+}
