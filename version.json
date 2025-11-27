@@ -1,9 +1,9 @@
 {
   "fir": "LBSR",
-  "airac_cycle": 2511,
+  "airac_cycle": 2512,
   "airac_version": 1,
   "package_version": 1,
-  "latest_package_name": "LBSR-LBSR-Package_20251030200012-251101-0001",
+  "latest_package_name": "LBSR-LBSR-Package_20251127161725-251201-0001",
   "download_url": "https://files.aero-nav.com/LBSR",
-  "notes": "AIRAC 2511 update. Full changelog on Discord."
+  "notes": "AIRAC 2512 update. Full changelog on Discord."
 }
